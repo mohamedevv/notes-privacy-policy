@@ -1,6 +1,6 @@
 # Privacy Policy
 
-At Notes app, we value the privacy and safety of our users' data and commit to complying with User-Generated Content (UGC) regulations concerning the storage and protection of personal data. This policy outlines the information we collect, the methods we use to collect and store it, the parties who can access it, and the ways in which users can control the use of their personal data.
+At Notes app, we value the privacy and safety of our users data and commit to complying with User-Generated Content (UGC) regulations concerning the storage and protection of personal data. This policy outlines the information we collect, the methods we use to collect and store it, the parties who can access it, and the ways in which users can control the use of their personal data.
 
 ## Data We Collect:
  We collect data that is sent to us when the app is used, including user backups and public posts added to our databases. This data is collected voluntarily.
