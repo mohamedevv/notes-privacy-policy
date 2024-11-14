@@ -4,9 +4,13 @@
 
 ## Data We Collect:
 
- >- We collect data sent to us when the app is used, including user backups added to our databases. This data is collected voluntarily. User backups are encrypted using AES256 encryption with the password provided by the 
- user during the backup process, we **cannot** access this backup data in any way.
- >- No personal data other than the email address and fully encrypted data with the user's password is collected when using the backup service.
+ >- We collect data sent to us when the app is used, including user backups that are added to our databases. This data is collected voluntarily.
+
+ >- User backups are encrypted using AES256 encryption, with the password provided by the user during the backup process. We cannot access this backup data in any way.
+
+ >- However, if the user does not make a backup, we do not collect any personal data such as notes, images, or tasks from the app.
+
+ >- No personal data other than the email address and the fully encrypted data, protected by the user's password, is collected when using the backup service.
  
 ## Sharing with Others:
 >- We do not share users personal data with anyone outside the app.
